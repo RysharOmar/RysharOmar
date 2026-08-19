@@ -82,7 +82,7 @@
 
 <div align="center">
 
-[![Hablemos             →](https://img.shields.io/badge/Hablemos_%E2%86%92-dc2626?style=for-the-badge&labelColor=171717&color=dc2626)](https://www.ryshar.dev)
+[![Hablemos →](https://img.shields.io/badge/Hablemos_%E2%86%92-dc2626?style=for-the-badge&labelColor=171717&color=dc2626)](https://www.ryshar.dev)
 
 </div>
 
@@ -91,7 +91,7 @@
 <div align="center">
   <a href="https://www.ryshar.dev"><img src="https://img.shields.io/badge/ryshar.dev-dc2626?style=flat-square&logo=firefox-browser&logoColor=white&labelColor=171717" /></a>
   <a href="https://linkedin.com/in/TU_PERFIL_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=171717" /></a>
-  <a href="mailto:contacto@ryshar.dev"><img src="https://img.shields.io/badge/Email-737373?style=flat-square&logo=gmail&logoColor=white&labelColor=171717" /></a>
+  <a href="mailto:contacto@ryshar.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br>
