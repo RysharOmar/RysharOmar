@@ -55,9 +55,10 @@
 
 <br>
 
-<<div align="center">
+<div align="center">
   <img src="2box.svg" width="780">
 </div>
+
 <div align="center">
   <a href="https://www.ryshar.dev">
     <img src="https://img.shields.io/badge/HABLEMOS→-dc2626?style=for-the-badge&labelColor=171717" />
