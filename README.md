@@ -20,18 +20,9 @@
 
 <br>
 
-<table>
-<tr>
-<td width="4" bgcolor="#dc2626"></td>
-<td bgcolor="#171717"><font color="#e5e5e5">&nbsp;&nbsp;&nbsp;&nbsp;No ensamblo componentes. Diseño <strong>operaciones resilientes</strong> pensadas para escalar.<br><br>
-
-Combino ciberseguridad ofensiva y desarrollo full-stack para construir infraestructuras que no solo funcionan: <strong>resisten</strong>. Integro IA, CRMs y bases de datos legacy sin abrir brechas.<br><br>
-
-Trabajo donde un minuto caído cuesta miles de euros. <strong>Seguridad desde la primera línea</strong>, sin atajos.<br><br>
-
-<em>Pocos proyectos a la vez. Solo los que exigen alto impacto y tolerancia cero al fallo.</em>&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
-</tr>
-</table>
+<div align="center">
+  <img src="1box.svg" width="780">
+</div>
 
 <br>
 
