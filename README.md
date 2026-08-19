@@ -90,7 +90,7 @@
 
 <div align="center">
   <a href="https://www.ryshar.dev"><img src="https://img.shields.io/badge/ryshar.dev-dc2626?style=flat-square&logo=firefox-browser&logoColor=white&labelColor=171717" /></a>
-  <a href="https://linkedin.com/in/TU_PERFIL_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=171717" /></a>
+  <a href="https://linkedin.com/in/TU_PERFIL_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:contacto@ryshar.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
@@ -108,8 +108,5 @@
 </a>
 
 
-<a href="https://www.linkedin.com/in/juan-perez-12345678" target="_blank">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxNDAgMzUiPjxyZWN0IHdpZHRoPSIxNDAiIGhlaWdodD0iMzUiIHJ4PSIxMiIgZmlsbD0iIzAwNzdCNSIvPjx0ZXh0IHg9IjcwIiB5PSIyMyIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSIxNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0id2hpdGUiPkxpbmtlZEluPC90ZXh0Pjwvc3ZnPg==" alt="LinkedIn" />
-</a>
 
 
