@@ -60,11 +60,11 @@
 <h3 align="center"><code>Actividad</code></h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RysharOmar&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=dc2626&icon_color=dc2626&text_color=e5e5e5" />
+  <img width="490" src="https://github-readme-stats.vercel.app/api?username=RysharOmar&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=dc2626&icon_color=dc2626&text_color=e5e5e5" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RysharOmar&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=dc2626&text_color=e5e5e5" />
+  <img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RysharOmar&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=dc2626&text_color=e5e5e5" />
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=RysharOmar&theme=radical&hide_border=true&background=0a0a0a&stroke=262626&ring=dc2626&fire=dc2626&sideLabels=e5e5e5&currStreakLabel=dc2626" />
+  <img width="490" src="https://streak-stats.demolab.com/?user=RysharOmar&theme=radical&hide_border=true&background=0a0a0a&stroke=262626&ring=dc2626&fire=dc2626&sideLabels=e5e5e5&currStreakLabel=dc2626" />
 </div>
 
 <br>
