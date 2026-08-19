@@ -26,19 +26,33 @@
 
 <br>
 
-<h3 align="center"><code>Arsenal Técnico</code></h3>
+
+
+---
+
+## 🛠️ Arsenal Técnico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,nodejs,typescript,react,nextjs&theme=dark" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,linux,bash,githubactions&theme=dark" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=postgresql,redis,git&theme=dark" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&labelColor=262626&color=1a1a1a" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&labelColor=262626&color=1a1a1a" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&labelColor=262626&color=1a1a1a" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&labelColor=262626&color=1a1a1a" />
+
+**Lenguajes & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=python,go,nodejs,typescript,react,nextjs&theme=dark" alt="Languages & Frameworks"/>
+
+**Infraestructura**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,linux,bash,githubactions&theme=dark" alt="Infrastructure"/>
+
+**Datos & Herramientas**
+
+<img src="https://skillicons.dev/icons?i=postgresql,redis,git&theme=dark" alt="Data & Tools"/>
+
+**Ciberseguridad**
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&labelColor=262626&color=1a1a1a" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&labelColor=262626&color=1a1a1a" alt="Metasploit"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&labelColor=262626&color=1a1a1a" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&labelColor=262626&color=1a1a1a" alt="Wireshark"/>
+
 </div>
 
 <br>
@@ -95,32 +109,5 @@
 
 
 
-
----
-
-## 🛠️ Arsenal Técnico
-
-<div align="center">
-
-**Lenguajes & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=python,go,nodejs,typescript,react,nextjs&theme=dark" alt="Languages & Frameworks"/>
-
-**Infraestructura**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,linux,bash,githubactions&theme=dark" alt="Infrastructure"/>
-
-**Datos & Herramientas**
-
-<img src="https://skillicons.dev/icons?i=postgresql,redis,git&theme=dark" alt="Data & Tools"/>
-
-**Ciberseguridad**
-
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&labelColor=262626&color=1a1a1a" alt="Burp Suite"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&labelColor=262626&color=1a1a1a" alt="Metasploit"/>
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&labelColor=262626&color=1a1a1a" alt="Nmap"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&labelColor=262626&color=1a1a1a" alt="Wireshark"/>
-
-</div>
 
 
