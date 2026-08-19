@@ -59,11 +59,11 @@
 
 <div align="center">
   <p style="color: #525252; font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase; margin: 0 0 16px 0;">Actividad</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=dc2626&icon_color=dc2626&text_color=e5e5e5" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RysharOmar&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=dc2626&icon_color=dc2626&text_color=e5e5e5" alt="GitHub Stats"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=dc2626&text_color=e5e5e5" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RysharOmar&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=dc2626&text_color=e5e5e5" alt="Top Languages"/>
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=TU_USUARIO&theme=radical&hide_border=true&background=0a0a0a&stroke=262626&ring=dc2626&fire=dc2626&sideLabels=e5e5e5&currStreakLabel=dc2626" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=RysharOmar&theme=radical&hide_border=true&background=0a0a0a&stroke=262626&ring=dc2626&fire=dc2626&sideLabels=e5e5e5&currStreakLabel=dc2626" alt="Streak Stats"/>
 </div>
 
 <br>
