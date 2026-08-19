@@ -55,20 +55,9 @@
 
 <br>
 
-<table>
-<tr>
-<td width="4" bgcolor="#dc2626"></td>
-<td bgcolor="#171717"><font color="#e5e5e5">&nbsp;&nbsp;&nbsp;&nbsp;Si tu operación depende de procesos que <strong>no pueden parar</strong> — no busques otro desarrollador.<br><br>
-
-Buscas a alguien que elimine el riesgo desde el diseño.<br><br>
-
 <div align="center">
-  <a href="https://www.ryshar.dev">
-    <img src="https://img.shields.io/badge/HABLEMOS→-dc2626?style=for-the-badge&labelColor=171717" />
-  </a>
-</div></font></td>
-</tr>
-</table>
+  <img src="2box.svg" width="780">
+</div>
 
 <br>
 
@@ -84,34 +73,3 @@ Buscas a alguien que elimine el riesgo desde el diseño.<br><br>
   <sub>*Diseñado para resistir.*</sub>
 </div>
 
-<table cellpadding="10" cellspacing="0" border="0">
-  <tr>
-    <td width="5" bgcolor="#ff0000"></td>
-    <td bgcolor="#000000"><font color="#ffffff"><b>Tu texto aquí</b></font></td>
-  </tr>
-</table>
-<svg viewBox="0 0 300 50" xmlns="http://www.w3.org/2000/svg">
-  <!-- Fondo negro -->
-  <rect width="300" height="50" fill="#000000" rx="4" ry="4"/>
-  <!-- Borde izquierdo rojo de 5px -->
-  <rect width="5" height="50" fill="#FF0000" rx="2" ry="2"/>
-  <!-- Texto blanco -->
-  <text x="20" y="30" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="16">
-    Tu texto aquí
-  </text>
-</svg>
-<div align="center">
-  <img src="nuevo.svg" width="780">
-</div>
-<font color="red">Texto rojo</font>
-<font color="#00ff00">Texto verde</font>
-<table><tr><td bgcolor="yellow">Texto con fondo amarillo</td></tr></table>
-
-<br>
-<table cellpadding="10" cellspacing="0" border="0">
-  <tr>
-    <td width="5" bgcolor="#ff0000"></td>
-    <td bgcolor="#000000"><font color="#ffffff"><b>Tu texto aquí</b></font></td>
-  </tr>
-</table>
-<br>
