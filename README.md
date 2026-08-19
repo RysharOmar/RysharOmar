@@ -110,5 +110,5 @@ Buscas a alguien que elimine el riesgo desde el diseño.<br><br>
   </text>
 </svg>
 <div align="center">
-  <img src="nuevo.svg" width="100">
+  <img src="nuevo.svg" width="780">
 </div>
