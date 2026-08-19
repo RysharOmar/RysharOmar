@@ -91,8 +91,9 @@
 
 <br>
 
+
 <div align="center">
-  <sub>*Diseñado para resistir.*</sub>
+  <code>Diseñado para resistir.</code>
 </div>
 
 
