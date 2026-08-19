@@ -82,7 +82,7 @@
 
 <div align="center">
 
-[![Hablemos   →](https://img.shields.io/badge/Hablemos_%E2%86%92-dc2626?style=for-the-badge&labelColor=171717&color=dc2626)](https://www.ryshar.dev)
+[![Hablemos             →](https://img.shields.io/badge/Hablemos_%E2%86%92-dc2626?style=for-the-badge&labelColor=171717&color=dc2626)](https://www.ryshar.dev)
 
 </div>
 
