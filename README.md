@@ -58,6 +58,8 @@
 <br>
 
 
+<h3 align="center"><code>Actividad</code></h3>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RysharOmar&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=dc2626&icon_color=dc2626&text_color=e5e5e5" />
   <br><br>
