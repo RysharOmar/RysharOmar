@@ -112,3 +112,15 @@ Buscas a alguien que elimine el riesgo desde el diseño.<br><br>
 <div align="center">
   <img src="nuevo.svg" width="780">
 </div>
+<font color="red">Texto rojo</font>
+<font color="#00ff00">Texto verde</font>
+<table><tr><td bgcolor="yellow">Texto con fondo amarillo</td></tr></table>
+
+<br>
+<table cellpadding="10" cellspacing="0" border="0">
+  <tr>
+    <td width="5" bgcolor="#ff0000"></td>
+    <td bgcolor="#000000"><font color="#ffffff"><b>Tu texto aquí</b></font></td>
+  </tr>
+</table>
+<br>
