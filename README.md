@@ -107,6 +107,12 @@
        style="border-radius: 12px;" />
 </a>
 
+<div align="center">
 
+<a href="https://www.ryshar.dev">
+  <img src="https://img.shields.io/badge/Hablemos_%E2%86%92-dc2626?style=for-the-badge&labelColor=171717&color=dc2626" width="180" />
+</a>
+
+</div>
 
 
