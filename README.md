@@ -99,3 +99,13 @@ Buscas a alguien que elimine el riesgo desde el diseño.<br><br>
     <td bgcolor="#000000"><font color="#ffffff"><b>Tu texto aquí</b></font></td>
   </tr>
 </table>
+<svg viewBox="0 0 300 50" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo negro -->
+  <rect width="300" height="50" fill="#000000" rx="4" ry="4"/>
+  <!-- Borde izquierdo rojo de 5px -->
+  <rect width="5" height="50" fill="#FF0000" rx="2" ry="2"/>
+  <!-- Texto blanco -->
+  <text x="20" y="30" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="16">
+    Tu texto aquí
+  </text>
+</svg>
