@@ -73,13 +73,6 @@
   <img src="2box.svg" width="780">
 </div>
 
-<div align="center">
-  <button onclick="window.location.href='https://www.ryshar.dev'" 
-    style="padding:10px 28px;background:#dc2626;color:#fff;border:none;
-    border-radius:6px;font-size:13.5px;font-weight:600;letter-spacing:0.05em;cursor:pointer;">
-    Hablemos →
-  </button>
-</div>
 
 <div align="center">
   <a href="https://www.ryshar.dev">
@@ -89,7 +82,7 @@
 
 <div align="center">
 
-[![Hablemos →](https://img.shields.io/badge/Hablemos_%E2%86%92-dc2626?style=for-the-badge&labelColor=171717&color=dc2626)](https://www.ryshar.dev)
+[![Hablemos   →](https://img.shields.io/badge/Hablemos_%E2%86%92-dc2626?style=for-the-badge&labelColor=171717&color=dc2626)](https://www.ryshar.dev)
 
 </div>
 
@@ -119,4 +112,4 @@
   <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxNDAgMzUiPjxyZWN0IHdpZHRoPSIxNDAiIGhlaWdodD0iMzUiIHJ4PSIxMiIgZmlsbD0iIzAwNzdCNSIvPjx0ZXh0IHg9IjcwIiB5PSIyMyIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSIxNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0id2hpdGUiPkxpbmtlZEluPC90ZXh0Pjwvc3ZnPg==" alt="LinkedIn" />
 </a>
 
-[![forthebadge](data:image/svg+xml;base64,PHN2ZyBkYXRhLXYtODY1ODNhZmQ9IiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTUyLjUxMjc5MDI5ODQ2MTk0IiBoZWlnaHQ9IjM4LjUiIHZpZXdCb3g9IjAgMCAxMzguNjQ3OTkxMTgwNDE5OTIgMzUiIGNsYXNzPSJiYWRnZS1zdmciPjxkZWZzIGRhdGEtdi04NjU4M2FmZD0iIj48IS0tLS0+PCEtLS0tPjwhLS0tLT48L2RlZnM+PHBhdGggZGF0YS12LTg2NTgzYWZkPSIiIGQ9Ik0gMTAgMCBMIDEwNC42NTA4MzMxMjk4ODI4MSAwIEwgMTA0LjY1MDgzMzEyOTg4MjgxIDM1IEwgMTAgMzUgUSAwIDM1IDAgMjUgTCAwIDEwIFEgMCAwIDEwIDAgWiIgZmlsbD0iI2RjMjYyNiIvPjxwYXRoIGRhdGEtdi04NjU4M2FmZD0iIiBkPSJNIDEwNC42NTA4MzMxMjk4ODI4MSAwIEwgMTI4LjY0Nzk5MTE4MDQxOTkyIDAgUSAxMzguNjQ3OTkxMTgwNDE5OTIgMCAxMzguNjQ3OTkxMTgwNDE5OTIgMTAgTCAxMzguNjQ3OTkxMTgwNDE5OTIgMjUgUSAxMzguNjQ3OTkxMTgwNDE5OTIgMzUgMTI4LjY0Nzk5MTE4MDQxOTkyIDM1IEwgMTA0LjY1MDgzMzEyOTg4MjgxIDM1IFoiIGZpbGw9IiNkYzI2MjYiLz48IS0tLS0+PHRleHQgZGF0YS12LTg2NTgzYWZkPSIiIHg9IjUyLjMyNTQxNjU2NDk0MTQwNiIgeT0iMTcuNSIgZHk9IjAuMzVlbSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IlJvYm90bywgc2Fucy1zZXJpZiIgZmlsbD0iI2ZmZmZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiIGZvbnQtd2VpZ2h0PSI2MDAiIGZvbnQtc3R5bGU9Im5vcm1hbCIgdGV4dC1kZWNvcmF0aW9uPSJub25lIiBmaWxsLW9wYWNpdHk9IjEiIGZvbnQtdmFyaWFudD0ibm9ybWFsIiBzdHlsZT0idGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTsiPkhBQkxFTU9TIDwvdGV4dD48IS0tLS0+PHRleHQgZGF0YS12LTg2NTgzYWZkPSIiIHg9IjEyMS42NDk0MTIxNTUxNTEzNyIgeT0iMTcuNSIgZHk9IjAuMzVlbSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9Ik1vbnRzZXJyYXQsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI5MDAiIGxldHRlci1zcGFjaW5nPSIyIiBmb250LXN0eWxlPSJub3JtYWwiIHRleHQtZGVjb3JhdGlvbj0ibm9uZSIgZmlsbC1vcGFjaXR5PSIxIiBmb250LXZhcmlhbnQ9Im5vcm1hbCIgc3R5bGU9InRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7Ij7ihpI8L3RleHQ+PCEtLS0tPjwvc3ZnPg==)](https://forthebadge.com)
+
