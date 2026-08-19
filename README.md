@@ -60,9 +60,11 @@
 </div>
 
 <div align="center">
-  <a href="https://www.ryshar.dev">
-    <img src="https://img.shields.io/badge/HABLEMOS→-dc2626?style=for-the-badge&labelColor=171717" />
-  </a>
+  <button onclick="window.location.href='https://www.ryshar.dev'" 
+    style="padding:10px 28px;background:#dc2626;color:#fff;border:none;
+    border-radius:6px;font-size:13.5px;font-weight:600;letter-spacing:0.05em;cursor:pointer;">
+    Hablemos →
+  </button>
 </div>
 
 <br>
