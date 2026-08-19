@@ -113,4 +113,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
        style="border-radius: 12px;" />
 </a>
-https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white
+
+
+<a href="https://www.linkedin.com/in/juan-perez-12345678" target="_blank">
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDAiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxNDAgMzUiPjxyZWN0IHdpZHRoPSIxNDAiIGhlaWdodD0iMzUiIHJ4PSIxMiIgZmlsbD0iIzAwNzdCNSIvPjx0ZXh0IHg9IjcwIiB5PSIyMyIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSIxNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0id2hpdGUiPkxpbmtlZEluPC90ZXh0Pjwvc3ZnPg==" alt="LinkedIn" />
+</a>
