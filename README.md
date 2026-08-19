@@ -56,7 +56,7 @@
 <br>
 
 <div align="center">
-  <img src="1box.svg" width="780">
+  <img src="2box.svg" width="780">
 </div>
 
 <div align="center">
