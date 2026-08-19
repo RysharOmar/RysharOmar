@@ -15,14 +15,6 @@
       <p style="color:#525252;margin:0 0 20px 0;">
         Buscas a alguien que elimine el riesgo desde el diseño.
       </p>
-      <a href="https://www.ryshar.dev" style="display:inline-block;padding:10px 28px;background:#dc2626;color:#ffffff;text-decoration:none;font-size:13.5px;font-weight:600;letter-spacing:0.05em;border-radius:6px;">Hablemos →</a>
+      
     </div>
   </foreignObject>
-
-  <!-- Pie centrado -->
-  <foreignObject x="0" y="156" width="720" height="24">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="text-align:center;font-family:sans-serif;">
-      <p style="color:#262626;font-size:11px;letter-spacing:0.1em;margin:0;">Diseñado para resistir.</p>
-    </div>
-  </foreignObject>
-</svg>
