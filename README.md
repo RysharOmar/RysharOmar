@@ -55,9 +55,7 @@
 
 <br>
 
-<div align="center">
-  <img src="2box.svg" width="780">
-</div>
+
 
 <br>
 
