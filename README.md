@@ -57,20 +57,14 @@
 
 <br>
 
-<h3 align="center"><code>Actividad</code></h3>
 
-<p align="center">
-  <img width="495" height="195" src="https://github-readme-stats.vercel.app/api?username=RysharOmar&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=dc2626&icon_color=dc2626&text_color=e5e5e5" />
-</p>
-
-<p align="center">
-  <img width="335" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RysharOmar&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=dc2626&text_color=e5e5e5" />
-</p>
-
-<p align="center">
-  <img width="495" height="195" src="https://streak-stats.demolab.com/?user=RysharOmar&theme=radical&hide_border=true&background=0a0a0a&stroke=262626&ring=dc2626&fire=dc2626&sideLabels=e5e5e5&currStreakLabel=dc2626" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RysharOmar&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=dc2626&icon_color=dc2626&text_color=e5e5e5" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RysharOmar&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=dc2626&text_color=e5e5e5" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=RysharOmar&theme=radical&hide_border=true&background=0a0a0a&stroke=262626&ring=dc2626&fire=dc2626&sideLabels=e5e5e5&currStreakLabel=dc2626" />
+</div>
 <br>
 
 <div align="center">
