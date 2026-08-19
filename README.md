@@ -92,7 +92,10 @@ Buscas a alguien que elimine el riesgo desde el diseño.<br><br>
 <div align="center">
   <sub>*Diseñado para resistir.*</sub>
 </div>
-<!-- ESTO NO FUNCIONARÁ EN GITHUB -->
-<div style="background-color: black; color: white; border-left: 5px solid red; padding: 10px;">
-  Tu texto aquí
-</div>
+
+<table cellpadding="10" cellspacing="0" border="0">
+  <tr>
+    <td width="5" bgcolor="#ff0000"></td>
+    <td bgcolor="#000000"><font color="#ffffff"><b>Tu texto aquí</b></font></td>
+  </tr>
+</table>
