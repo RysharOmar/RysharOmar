@@ -23,17 +23,13 @@
 <table>
 <tr>
 <td width="4" bgcolor="#dc2626"></td>
-<td bgcolor="#171717" style="padding: 20px 24px; color: #e5e5e5; font-size: 14px; line-height: 1.8;">
+<td bgcolor="#171717"><font color="#e5e5e5">&nbsp;&nbsp;&nbsp;&nbsp;No ensamblo componentes. Diseño <strong>operaciones resilientes</strong> pensadas para escalar.<br><br>
 
-No ensamblo componentes. Diseño **operaciones resilientes** pensadas para escalar.
+Combino ciberseguridad ofensiva y desarrollo full-stack para construir infraestructuras que no solo funcionan: <strong>resisten</strong>. Integro IA, CRMs y bases de datos legacy sin abrir brechas.<br><br>
 
-Combino ciberseguridad ofensiva y desarrollo full-stack para construir infraestructuras que no solo funcionan: **resisten**. Integro IA, CRMs y bases de datos legacy sin abrir brechas.
+Trabajo donde un minuto caído cuesta miles de euros. <strong>Seguridad desde la primera línea</strong>, sin atajos.<br><br>
 
-Trabajo donde un minuto caído cuesta miles de euros. **Seguridad desde la primera línea**, sin atajos.
-
-*Pocos proyectos a la vez. Solo los que exigen alto impacto y tolerancia cero al fallo.*
-
-</td>
+<em>Pocos proyectos a la vez. Solo los que exigen alto impacto y tolerancia cero al fallo.</em>&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
 </tr>
 </table>
 
@@ -71,19 +67,15 @@ Trabajo donde un minuto caído cuesta miles de euros. **Seguridad desde la prime
 <table>
 <tr>
 <td width="4" bgcolor="#dc2626"></td>
-<td bgcolor="#171717" style="padding: 20px 24px; color: #e5e5e5; font-size: 14px; line-height: 1.8;">
+<td bgcolor="#171717"><font color="#e5e5e5">&nbsp;&nbsp;&nbsp;&nbsp;Si tu operación depende de procesos que <strong>no pueden parar</strong> — no busques otro desarrollador.<br><br>
 
-Si tu operación depende de procesos que **no pueden parar** — no busques otro desarrollador.
-
-Buscas a alguien que elimine el riesgo desde el diseño.
+Buscas a alguien que elimine el riesgo desde el diseño.<br><br>
 
 <div align="center">
   <a href="https://www.ryshar.dev">
     <img src="https://img.shields.io/badge/HABLEMOS→-dc2626?style=for-the-badge&labelColor=171717" />
   </a>
-</div>
-
-</td>
+</div></font></td>
 </tr>
 </table>
 
