@@ -60,10 +60,14 @@
 
 <h3 align="center"><code>Actividad</code></h3>
 
-  
-
+ 
+    
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=RysharOmar&theme=radical&hide_border=true&background=0a0a0a&stroke=262626&ring=dc2626&fire=dc2626&sideLabels=e5e5e5&currStreakLabel=dc2626" />
+    <p align="center">
+      <img width="495" height="195" src="https://streak-stats.demolab.com/?user=RysharOmar&theme=radical&hide_border=true&background=0a0a0a&stroke=262626&ring=dc2626&fire=dc2626&sideLabels=e5e5e5&currStreakLabel=dc2626" />
+    </p>
+
+
   
 </div>
 <br>
