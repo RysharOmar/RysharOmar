@@ -60,20 +60,7 @@
 
 <h3 align="center"><code>Actividad</code></h3>
 
-    <div align="center">
-      <table><tr><td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RysharOmar&theme=radical&hide_border=true&title_color=dc2626&text_color=e5e5e5&icon_color=dc2626&bg_color=0a0a0a" />
-    </td></tr></table>
-      
-      <br><br>
-      <table><tr><td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RysharOmar&theme=radical&hide_border=true&title_color=dc2626&text_color=e5e5e5&bg_color=0a0a0a" />
-    </td></tr></table>
-    
-    <br><br>
-    <p align="center">
-      <img width="495" height="195" src="https://streak-stats.demolab.com/?user=RysharOmar&theme=radical&hide_border=true&background=0a0a0a&stroke=262626&ring=dc2626&fire=dc2626&sideLabels=e5e5e5&currStreakLabel=dc2626" />
-    </p>
+  
 
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=RysharOmar&theme=radical&hide_border=true&background=0a0a0a&stroke=262626&ring=dc2626&fire=dc2626&sideLabels=e5e5e5&currStreakLabel=dc2626" />
