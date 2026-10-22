@@ -1,5 +1,9 @@
 <div align="center">
 
+<div align="center">
+  <img src="hero-banner.svg" width="780">
+</div>
+
 <img src="https://img.shields.io/badge/THREAT_MODEL-OFFENSIVE-dc2626?style=flat-square&labelColor=171717" alt="Threat Model" />
 <img src="https://img.shields.io/badge/AVAILABILITY-LIMITED-dc2626?style=flat-square&labelColor=171717" alt="Availability" />
 <img src="https://img.shields.io/badge/FOCUS-ZERO_TOLERANCE_TO_FAILURE-737373?style=flat-square&labelColor=171717" alt="Focus" />
