@@ -170,7 +170,7 @@ Ciberseguridad ofensiva y desarrollo full-stack, fusionados en infraestructuras 
 
 **`Diseñado para resistir.`**
 <div align="center">
-  <img src="contact-banner.svg" width="780">
+  <img src="contact.svg" width="780">
 </div>
 
 <div align="center">
