@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 46" width="220" height="46" role="img" aria-label="Phone">
+  <rect width="220" height="46" rx="8" fill="#0d0d0d" stroke="#262626" stroke-width="1"/>
+  <rect x="12" y="19" width="4" height="8" fill="#dc2626"/>
+  <g transform="translate(22,15)" stroke="#dc2626" stroke-width="1.5" fill="none"><rect x="3" y="0" width="10" height="16" rx="2"/><circle cx="8" cy="13" r="1" fill="#dc2626" stroke="none"/></g>
+  <text x="48" y="29" font-size="14" font-weight="700" fill="#ffffff" font-family="'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif">Phone</text>
+  <path d="M186 23 L200 23 M194 17 L200 23 L194 29" stroke="#dc2626" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
