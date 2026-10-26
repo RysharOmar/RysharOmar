@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 120" width="880" height="120" role="img" aria-label="Diseñado para resistir">
+  <defs>
+    <radialGradient id="footGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#dc2626" stop-opacity="0.22"/>
+      <stop offset="60%" stop-color="#7f1d1d" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="fgrid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0 L0 0 0 44" fill="none" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+    </pattern>
+    <filter id="footTextGlow" x="-30%" y="-50%" width="160%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feFlood flood-color="#dc2626" flood-opacity="0.5"/>
+      <feComposite in2="b" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="lineGlow">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="880" height="120" fill="#0a0a0a"/>
+  <rect width="880" height="120" fill="url(#footGlow)"/>
+  <rect width="880" height="120" fill="url(#fgrid)"/>
+
+  <!-- top accent line -->
+  <line x1="350" y1="26" x2="530" y2="26" stroke="#dc2626" stroke-opacity="0.6" stroke-width="1.5" filter="url(#lineGlow)"/>
+
+  <!-- main statement -->
+  <text x="440" y="66" fill="#ffffff" font-size="22" font-weight="700" letter-spacing="0.5"
+        text-anchor="middle" filter="url(#footTextGlow)"
+        font-family="'JetBrains Mono','Fira Code',Consolas,monospace">
+    Diseñado para resistir.
+  </text>
+
+  <!-- subtext -->
+  <text x="440" y="92" fill="#525252" font-size="10" letter-spacing="2.5" text-anchor="middle"
+        font-family="'JetBrains Mono','Fira Code',Consolas,monospace">
+    RYSHAR PÉREZ NUÑEZ  ·  CIBERSEGURIDAD OFENSIVA
+  </text>
+
+  <!-- HUD brackets -->
+  <g stroke="#3f3f46" stroke-width="1.5" fill="none" stroke-linecap="square">
+    <path d="M14 18 L14 8 L26 8"/>
+    <path d="M854 8 L866 8 L866 18"/>
+    <path d="M14 102 L14 112 L26 112"/>
+    <path d="M854 112 L866 112 L866 102"/>
+  </g>
+</svg>
