@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80" role="img" aria-label="Email">
+  <defs>
+    <linearGradient id="bgMail" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1A1A1A"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <filter id="shadowMail" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <!-- Background -->
+  <rect width="320" height="80" rx="16" fill="url(#bgMail)" filter="url(#shadowMail)"/>
+  <!-- Inner subtle red border -->
+  <rect x="1.5" y="1.5" width="317" height="77" rx="14.5" fill="none" stroke="#E11D2A" stroke-opacity="0.55" stroke-width="1"/>
+  <!-- Mail icon -->
+  <g transform="translate(24, 20)" fill="none" stroke="#E11D2A" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="2" y="6" width="40" height="28" rx="4"/>
+    <path d="m42 10-20 13L2 10"/>
+  </g>
+  <!-- Text -->
+  <text x="100" y="50" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="25" font-weight="700" fill="#ffffff" text-rendering="geometricPrecision">Email</text>
+</svg>
