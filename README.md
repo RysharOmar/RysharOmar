@@ -9,4 +9,6 @@
     <a href="https://wa.me/34600000000"><img src="https://raw.githubusercontent.com/RysharOmar/RysharOmar/main/assets/boton-whatsapp.svg" alt="WhatsApp" width="24%" /></a>
   </p>
 
+  <img src="https://raw.githubusercontent.com/RysharOmar/RysharOmar/main/assets/footer-banner.svg" width="100%" alt="footer" />
+
 </div>
