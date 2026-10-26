@@ -2,13 +2,11 @@
 
 <img src="readme-banner.svg" width="100%" alt="Ryshar Pérez Nuñez" />
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td align="center"><a href="https://rysharpereznunez.vercel.app"><img src="https://img.shields.io/badge/Website-%E2%86%92-dc2626?style=for-the-badge&labelColor=0d0d0d&logo=vercel&logoColor=white" height="40" alt="Website" /></a></td>
-<td align="center"><a href="mailto:rysharpereznunez@gmail.com"><img src="https://img.shields.io/badge/Email-%E2%86%92-dc2626?style=for-the-badge&labelColor=0d0d0d&logo=gmail&logoColor=white" height="40" alt="Email" /></a></td>
-<td align="center"><a href="https://t.me/RyshaOmar"><img src="https://img.shields.io/badge/Telegram-%E2%86%92-dc2626?style=for-the-badge&labelColor=0d0d0d&logo=telegram&logoColor=white" height="40" alt="Telegram" /></a></td>
-<td align="center"><a href="tel:+5356867676"><img src="https://img.shields.io/badge/Phone-%E2%86%92-dc2626?style=for-the-badge&labelColor=0d0d0d&logoColor=white" height="40" alt="Phone" /></a></td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://tu-sitio.com"><img src="https://raw.githubusercontent.com/USUARIO/REPO/main/buttons/boton-web.svg" alt="Sitio Web" width="24%" /></a>
+  <a href="mailto:tu@email.com"><img src="https://raw.githubusercontent.com/USUARIO/REPO/main/buttons/boton-mail.svg" alt="Email" width="24%" /></a>
+  <a href="https://t.me/tu_usuario"><img src="https://raw.githubusercontent.com/USUARIO/REPO/main/buttons/boton-telegram.svg" alt="Telegram" width="24%" /></a>
+  <a href="https://wa.me/34600000000"><img src="https://raw.githubusercontent.com/USUARIO/REPO/main/buttons/boton-whatsapp.svg" alt="WhatsApp" width="24%" /></a>
+</p>
 
 </div>
