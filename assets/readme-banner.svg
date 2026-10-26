@@ -1,0 +1,335 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 1460" width="880" height="1460" role="img" aria-label="Ryshar Pérez Nuñez — README">
+  <defs>
+<radialGradient id="redGlow" cx="50%" cy="32%" r="55%">
+      <stop offset="0%" stop-color="#dc2626" stop-opacity="0.28"/>
+      <stop offset="45%" stop-color="#7f1d1d" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="vignette" cx="50%" cy="50%" r="72%">
+      <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0 L0 0 0 44" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <filter id="titleGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feFlood flood-color="#dc2626" flood-opacity="0.55"/>
+      <feComposite in2="b" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+<radialGradient id="tsGlow" cx="50%" cy="0%" r="55%">
+      <stop offset="0%" stop-color="#dc2626" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="tsGrid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0 L0 0 0 44" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="tsLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#dc2626" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#dc2626" stop-opacity="0"/>
+    </linearGradient>
+<radialGradient id="csGlow" cx="50%" cy="0%" r="55%">
+      <stop offset="0%" stop-color="#dc2626" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="csGrid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0 L0 0 0 44" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="csLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#dc2626" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#dc2626" stop-opacity="0"/>
+    </linearGradient>
+<radialGradient id="mtGlow" cx="50%" cy="0%" r="55%">
+      <stop offset="0%" stop-color="#dc2626" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="mtGrid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0 L0 0 0 44" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="mtLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#dc2626" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#dc2626" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="barRed" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#dc2626" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#dc2626"/>
+    </linearGradient>
+<radialGradient id="ctGlow" cx="50%" cy="0%" r="55%">
+      <stop offset="0%" stop-color="#dc2626" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="ctGrid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0 L0 0 0 44" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="ctLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#dc2626" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#dc2626" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(0,0)">
+<!-- background layers -->
+  <rect width="880" height="300" fill="#0a0a0a"/>
+  <rect width="880" height="300" fill="url(#redGlow)"/>
+  <rect width="880" height="300" fill="url(#grid)"/>
+  <rect width="880" height="300" fill="url(#vignette)"/>
+
+  <!-- HUD corner brackets -->
+  
+
+  <!-- top pill -->
+  <g>
+    <rect x="310" y="26" width="260" height="28" rx="14" fill="#dc2626" fill-opacity="0.08" stroke="#dc2626" stroke-opacity="0.5" stroke-width="1"/>
+    <circle cx="332" cy="40" r="3" fill="#ef4444"/>
+    <circle cx="332" cy="40" r="6" fill="#ef4444" fill-opacity="0.25"/>
+    <text x="448" y="44" fill="#fca5a5" font-size="10.5" font-weight="600" letter-spacing="1.6"
+          text-anchor="middle" font-family="'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+      PERFIL EJECUTIVO · LISTO PARA PRODUCCIÓN
+    </text>
+  </g>
+
+  <!-- title -->
+  <text x="440" y="128" fill="#ffffff" font-size="46" font-weight="800" letter-spacing="-1.5"
+        text-anchor="middle" filter="url(#titleGlow)"
+        font-family="'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+    RYSHAR PÉREZ NUÑEZ
+  </text>
+
+  <!-- subtitle -->
+  <text x="440" y="158" fill="#a3a3a3" font-size="14.5" letter-spacing="0.4"
+        text-anchor="middle"
+        font-family="'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+    Ingeniero en Ciberseguridad · Arquitecto de Sistemas Resilientes
+  </text>
+
+  <!-- divider -->
+  <line x1="380" y1="176" x2="500" y2="176" stroke="#262626" stroke-width="1"/>
+
+  <!-- value proposition -->
+  <text x="440" y="206" fill="#d4d4d4" font-size="17" text-anchor="middle"
+        font-family="'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+    Construyo sistemas que tu negocio
+  </text>
+  <text x="440" y="230" fill="#d4d4d4" font-size="17" text-anchor="middle"
+        font-family="'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+    <tspan>no puede permitirse que </tspan><tspan fill="#ffffff" font-weight="700">fallen.</tspan>
+  </text>
+
+  <!-- status chips -->
+  <g font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="10.5" letter-spacing="0.8">
+    <!-- chip 1 -->
+    <g transform="translate(126,257)">
+      <rect width="200" height="26" rx="6" fill="#0d0d0d" stroke="#262626" stroke-width="1"/>
+      <circle cx="14" cy="13" r="2.5" fill="#dc2626"/>
+      <text x="24" y="17" fill="#ef4444">THREAT MODEL · OFFENSIVE</text>
+    </g>
+    <!-- chip 2 -->
+    <g transform="translate(340,257)">
+      <rect width="200" height="26" rx="6" fill="#0d0d0d" stroke="#262626" stroke-width="1"/>
+      <circle cx="14" cy="13" r="2.5" fill="#dc2626"/>
+      <text x="24" y="17" fill="#ef4444">AVAILABILITY · LIMITED</text>
+    </g>
+    <!-- chip 3 -->
+    <g transform="translate(554,257)">
+      <rect width="200" height="26" rx="6" fill="#0d0d0d" stroke="#262626" stroke-width="1"/>
+      <circle cx="14" cy="13" r="2.5" fill="#525252"/>
+      <text x="24" y="17" fill="#a3a3a3">ZERO TOLERANCE TO FAILURE</text>
+    </g>
+  </g>
+  </g>
+  <g transform="translate(0,300)">
+<rect width="880" height="520" fill="#0a0a0a"/>
+  <rect width="880" height="520" fill="url(#tsGlow)"/>
+  <rect width="880" height="520" fill="url(#tsGrid)"/>
+
+  
+
+  <!-- header -->
+  <rect x="40" y="30" width="30" height="30" rx="6" fill="#0d0d0d" stroke="#dc2626" stroke-opacity="0.6" stroke-width="1"/>
+  <text x="55" y="50" fill="#ef4444" font-size="13" font-weight="700" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">01</text>
+  <rect x="80" y="32" width="3" height="26" fill="#dc2626"/>
+  <text x="92" y="51" fill="#ffffff" font-size="19" font-weight="800" letter-spacing="0.5" font-family="'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif">CORE TECH STACK</text>
+  <line x1="320" y1="45" x2="840" y2="45" stroke="url(#tsLine)" stroke-width="1.5"/>
+
+  <g font-family="'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+    <!-- BAND 1: FRONTEND (y 80-164) -->
+    <text x="52" y="138" fill="#171717" font-size="44" font-weight="800" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">01</text>
+    <rect x="112" y="102" width="3" height="44" fill="#dc2626"/>
+    <text x="126" y="120" fill="#ffffff" font-size="17" font-weight="700">FRONTEND</text>
+    <text x="126" y="144" font-size="13.5" fill="#b8b8b8">TypeScript<tspan fill="#dc2626"> · </tspan>React<tspan fill="#dc2626"> · </tspan>Next.js<tspan fill="#dc2626"> · </tspan>HTML5<tspan fill="#dc2626"> · </tspan>CSS3</text>
+    <line x1="40" y1="164" x2="840" y2="164" stroke="#141414" stroke-width="1"/>
+
+    <!-- BAND 2: BACKEND & IA (y 164-248) -->
+    <text x="52" y="222" fill="#171717" font-size="44" font-weight="800" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">02</text>
+    <rect x="112" y="186" width="3" height="44" fill="#dc2626"/>
+    <text x="126" y="204" fill="#ffffff" font-size="17" font-weight="700">BACKEND &amp; IA</text>
+    <text x="126" y="228" font-size="13.5" fill="#b8b8b8">Node.js<tspan fill="#dc2626"> · </tspan>Python<tspan fill="#dc2626"> · </tspan>n8n<tspan fill="#dc2626"> · </tspan>OpenAI<tspan fill="#dc2626"> · </tspan>LangChain</text>
+    <line x1="40" y1="248" x2="840" y2="248" stroke="#141414" stroke-width="1"/>
+
+    <!-- BAND 3: CLOUD & DEVOPS (y 248-332) -->
+    <text x="52" y="306" fill="#171717" font-size="44" font-weight="800" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">03</text>
+    <rect x="112" y="270" width="3" height="44" fill="#dc2626"/>
+    <text x="126" y="288" fill="#ffffff" font-size="17" font-weight="700">CLOUD &amp; DEVOPS</text>
+    <text x="126" y="312" font-size="13.5" fill="#b8b8b8">Docker<tspan fill="#dc2626"> · </tspan>Kubernetes<tspan fill="#dc2626"> · </tspan>AWS<tspan fill="#dc2626"> · </tspan>GitHub Actions<tspan fill="#dc2626"> · </tspan>Linux<tspan fill="#dc2626"> · </tspan>Terraform</text>
+    <line x1="40" y1="332" x2="840" y2="332" stroke="#141414" stroke-width="1"/>
+
+    <!-- BAND 4: DATABASES & APIs (y 332-416) -->
+    <text x="52" y="390" fill="#171717" font-size="44" font-weight="800" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">04</text>
+    <rect x="112" y="354" width="3" height="44" fill="#dc2626"/>
+    <text x="126" y="372" fill="#ffffff" font-size="17" font-weight="700">DATABASES &amp; APIs</text>
+    <text x="126" y="396" font-size="13.5" fill="#b8b8b8">PostgreSQL<tspan fill="#dc2626"> · </tspan>Redis<tspan fill="#dc2626"> · </tspan>REST API<tspan fill="#dc2626"> · </tspan>Webhooks<tspan fill="#dc2626"> · </tspan>OAuth2<tspan fill="#dc2626"> · </tspan>Apify</text>
+    <line x1="40" y1="416" x2="840" y2="416" stroke="#141414" stroke-width="1"/>
+
+    <!-- BAND 5: CIBERSEGURIDAD (accent band, y 416-500) -->
+    <rect x="40" y="416" width="800" height="84" rx="8" fill="#dc2626" fill-opacity="0.06" stroke="#dc2626" stroke-opacity="0.25" stroke-width="1"/>
+    <text x="68" y="474" fill="#3f0a0a" font-size="44" font-weight="800" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">05</text>
+    <rect x="128" y="438" width="3" height="44" fill="#dc2626"/>
+    <text x="142" y="456" fill="#ef4444" font-size="17" font-weight="700">CIBERSEGURIDAD OFENSIVA</text>
+    <text x="142" y="480" font-size="13.5" fill="#d4d4d4">Burp Suite<tspan fill="#dc2626"> · </tspan>Metasploit<tspan fill="#dc2626"> · </tspan>Nmap<tspan fill="#dc2626"> · </tspan>Wireshark<tspan fill="#dc2626"> · </tspan>Splunk</text>
+  </g>
+  </g>
+  <g transform="translate(0,820)">
+<rect width="880" height="280" fill="#0a0a0a"/>
+  <rect width="880" height="280" fill="url(#csGlow)"/>
+  <rect width="880" height="280" fill="url(#csGrid)"/>
+
+  
+
+  <!-- header -->
+  <rect x="40" y="30" width="30" height="30" rx="6" fill="#0d0d0d" stroke="#dc2626" stroke-opacity="0.6" stroke-width="1"/>
+  <text x="55" y="50" fill="#ef4444" font-size="13" font-weight="700" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">02</text>
+  <rect x="80" y="32" width="3" height="26" fill="#dc2626"/>
+  <text x="92" y="51" fill="#ffffff" font-size="19" font-weight="800" letter-spacing="0.5" font-family="'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif">CÓMO TRABAJO</text>
+  <line x1="275" y1="45" x2="840" y2="45" stroke="url(#csLine)" stroke-width="1.5"/>
+
+  <!-- process flow -->
+  <g font-family="'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+    <!-- connectors with arrowheads -->
+    <g stroke="#dc2626" stroke-opacity="0.45" stroke-width="1.5" fill="#dc2626">
+      <line x1="138" y1="145" x2="300" y2="145"/>
+      <polygon points="300,140 310,145 300,150" stroke="none"/>
+      <line x1="358" y1="145" x2="520" y2="145"/>
+      <polygon points="520,140 530,145 520,150" stroke="none"/>
+      <line x1="578" y1="145" x2="740" y2="145"/>
+      <polygon points="740,140 750,145 740,150" stroke="none"/>
+    </g>
+
+    <!-- NODE 1: DESCUBRIMIENTO -->
+    <g>
+      <circle cx="110" cy="145" r="24" fill="#0d0d0d" stroke="#dc2626" stroke-width="1.5"/>
+      <text x="110" y="150" text-anchor="middle" font-size="14" font-weight="800" fill="#ef4444" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">01</text>
+      <text x="110" y="198" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">DESCUBRIMIENTO</text>
+      <text x="110" y="218" text-anchor="middle" font-size="10.5" fill="#a3a3a3">Llamada inicial y</text>
+      <text x="110" y="232" text-anchor="middle" font-size="10.5" fill="#a3a3a3">mapeo de riesgos.</text>
+    </g>
+
+    <!-- NODE 2: ARQUITECTURA -->
+    <g>
+      <circle cx="330" cy="145" r="24" fill="#0d0d0d" stroke="#dc2626" stroke-width="1.5"/>
+      <text x="330" y="150" text-anchor="middle" font-size="14" font-weight="800" fill="#ef4444" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">02</text>
+      <text x="330" y="198" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">ARQUITECTURA</text>
+      <text x="330" y="218" text-anchor="middle" font-size="10.5" fill="#a3a3a3">Plan a medida,</text>
+      <text x="330" y="232" text-anchor="middle" font-size="10.5" fill="#a3a3a3">seguridad desde el diseño.</text>
+    </g>
+
+    <!-- NODE 3: IMPLEMENTACIÓN -->
+    <g>
+      <circle cx="550" cy="145" r="24" fill="#0d0d0d" stroke="#dc2626" stroke-width="1.5"/>
+      <text x="550" y="150" text-anchor="middle" font-size="14" font-weight="800" fill="#ef4444" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">03</text>
+      <text x="550" y="198" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">IMPLEMENTACIÓN</text>
+      <text x="550" y="218" text-anchor="middle" font-size="10.5" fill="#a3a3a3">Desarrollo end-to-end,</text>
+      <text x="550" y="232" text-anchor="middle" font-size="10.5" fill="#a3a3a3">sin atajos ni parches.</text>
+    </g>
+
+    <!-- NODE 4: SOPORTE 30D -->
+    <g>
+      <circle cx="770" cy="145" r="24" fill="#0d0d0d" stroke="#dc2626" stroke-width="1.5"/>
+      <text x="770" y="150" text-anchor="middle" font-size="14" font-weight="800" fill="#ef4444" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">04</text>
+      <text x="770" y="198" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">SOPORTE 30D</text>
+      <text x="770" y="218" text-anchor="middle" font-size="10.5" fill="#a3a3a3">Acompañamiento</text>
+      <text x="770" y="232" text-anchor="middle" font-size="10.5" fill="#a3a3a3">post-despliegue.</text>
+    </g>
+  </g>
+  </g>
+  <g transform="translate(0,1100)">
+<rect width="880" height="280" fill="#0a0a0a"/>
+  <rect width="880" height="280" fill="url(#mtGlow)"/>
+  <rect width="880" height="280" fill="url(#mtGrid)"/>
+
+  
+
+  <!-- header -->
+  <rect x="40" y="30" width="30" height="30" rx="6" fill="#0d0d0d" stroke="#dc2626" stroke-opacity="0.6" stroke-width="1"/>
+  <text x="55" y="50" fill="#ef4444" font-size="13" font-weight="700" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">03</text>
+  <rect x="80" y="32" width="3" height="26" fill="#dc2626"/>
+  <text x="92" y="51" fill="#ffffff" font-size="19" font-weight="800" letter-spacing="0.5" font-family="'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif">MÉTRICAS</text>
+  <line x1="235" y1="45" x2="840" y2="45" stroke="url(#mtLine)" stroke-width="1.5"/>
+
+  <g font-family="'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+    <!-- PANEL 1: 5+ años experiencia -->
+    <g transform="translate(20,95)">
+      <rect width="200" height="160" rx="12" fill="#0d0d0d" stroke="#1a1a1a" stroke-width="1"/>
+      <text x="100" y="38" text-anchor="middle" font-size="10.5" letter-spacing="1.8" font-family="'JetBrains Mono','Fira Code',Consolas,monospace"><tspan fill="#dc2626">▲</tspan><tspan fill="#737373">  EXPERIENCIA</tspan></text>
+      <text x="100" y="92" text-anchor="middle" font-size="42" font-weight="800" fill="#ffffff">5+ años</text>
+      <rect x="30" y="112" width="140" height="5" rx="2.5" fill="#1a1a1a"/>
+      <rect x="30" y="112" width="95" height="5" rx="2.5" fill="url(#barRed)"/>
+      <text x="100" y="142" text-anchor="middle" font-size="9.5" fill="#525252" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">desde 2019 · full-stack + sec</text>
+    </g>
+
+    <!-- PANEL 2: 30+ automatizaciones -->
+    <g transform="translate(233,95)">
+      <rect width="200" height="160" rx="12" fill="#0d0d0d" stroke="#1a1a1a" stroke-width="1"/>
+      <text x="100" y="38" text-anchor="middle" font-size="10.5" letter-spacing="1.8" font-family="'JetBrains Mono','Fira Code',Consolas,monospace"><tspan fill="#dc2626">▲</tspan><tspan fill="#737373">  AUTOMATIZACIONES</tspan></text>
+      <text x="100" y="92" text-anchor="middle" font-size="42" font-weight="800" fill="#ffffff">30+</text>
+      <rect x="30" y="112" width="140" height="5" rx="2.5" fill="#1a1a1a"/>
+      <rect x="30" y="112" width="130" height="5" rx="2.5" fill="url(#barRed)"/>
+      <text x="100" y="142" text-anchor="middle" font-size="9.5" fill="#525252" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">flujos n8n · APIs · IA</text>
+    </g>
+
+    <!-- PANEL 3: 20+ proyectos -->
+    <g transform="translate(446,95)">
+      <rect width="200" height="160" rx="12" fill="#0d0d0d" stroke="#1a1a1a" stroke-width="1"/>
+      <text x="100" y="38" text-anchor="middle" font-size="10.5" letter-spacing="1.8" font-family="'JetBrains Mono','Fira Code',Consolas,monospace"><tspan fill="#dc2626">▲</tspan><tspan fill="#737373">  PROYECTOS</tspan></text>
+      <text x="100" y="92" text-anchor="middle" font-size="42" font-weight="800" fill="#ffffff">20+</text>
+      <rect x="30" y="112" width="140" height="5" rx="2.5" fill="#1a1a1a"/>
+      <rect x="30" y="112" width="105" height="5" rx="2.5" fill="url(#barRed)"/>
+      <text x="100" y="142" text-anchor="middle" font-size="9.5" fill="#525252" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">web desplegados</text>
+    </g>
+
+    <!-- PANEL 4: −25% tiempos operativos -->
+    <g transform="translate(659,95)">
+      <rect width="200" height="160" rx="12" fill="#0d0d0d" stroke="#1a1a1a" stroke-width="1"/>
+      <text x="100" y="38" text-anchor="middle" font-size="10.5" letter-spacing="1.8" font-family="'JetBrains Mono','Fira Code',Consolas,monospace"><tspan fill="#dc2626">▼</tspan><tspan fill="#737373">  TIEMPOS OP.</tspan></text>
+      <text x="100" y="92" text-anchor="middle" font-size="42" font-weight="800" fill="#ffffff">−25%</text>
+      <rect x="30" y="112" width="140" height="5" rx="2.5" fill="#1a1a1a"/>
+      <rect x="30" y="112" width="70" height="5" rx="2.5" fill="url(#barRed)"/>
+      <text x="100" y="142" text-anchor="middle" font-size="9.5" fill="#525252" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">reducción operativa</text>
+    </g>
+  </g>
+  </g>
+  <g transform="translate(0,1380)">
+<rect width="880" height="80" fill="#0a0a0a"/>
+  <rect width="880" height="80" fill="url(#ctGlow)"/>
+  <rect width="880" height="80" fill="url(#ctGrid)"/>
+
+  
+
+  <!-- header (only the heading remains; contact info lives in the shields.io buttons below) -->
+  <rect x="40" y="30" width="30" height="30" rx="6" fill="#0d0d0d" stroke="#dc2626" stroke-opacity="0.6" stroke-width="1"/>
+  <text x="55" y="50" fill="#ef4444" font-size="13" font-weight="700" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,monospace">04</text>
+  <rect x="80" y="32" width="3" height="26" fill="#dc2626"/>
+  <text x="92" y="51" fill="#ffffff" font-size="19" font-weight="800" letter-spacing="0.5" font-family="'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif">CONTACTO</text>
+  <line x1="235" y1="45" x2="840" y2="45" stroke="url(#ctLine)" stroke-width="1.5"/>
+  </g>
+
+  <g stroke="#3f3f46" stroke-width="1.5" fill="none" stroke-linecap="square">
+    <path d="M14 30 L14 14 L30 14"/>
+    <path d="M850 14 L866 14 L866 30"/>
+    <path d="M14 1430 L14 1446 L30 1446"/>
+    <path d="M850 1446 L866 1446 L866 1430"/>
+  </g>
+</svg>
